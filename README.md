@@ -33,7 +33,7 @@ Summary of all the steps performed so far:
 
 The first three files are the training dataset while the last three files are verification sets.
 
-- We need to add occlusion to the images in the dataset, and thus prepare out own dataset, which will be further used for training purpose.
+
 
 ### Dataset Asia celeb:
 
